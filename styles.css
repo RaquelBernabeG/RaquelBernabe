@@ -295,7 +295,7 @@
       justify-content: space-between;
       align-items: center;
       position: relative;
-      background-image: url(public/img/CajasGuitoFinal.webp);
+      background-image: url(public2/img/CajasGuitoFinal.webp);
       background-size: cover;
       background-position: center;
       padding: 0 5vw;
@@ -321,15 +321,15 @@
     }
 
     .container-1-new {
-      background-image: url(public/img/PuestalFondo.webp);
+      background-image: url(public2/img/PuestalFondo.webp);
     }
 
     .container-1-new-2 {
-      background-image: url(public/img/RetelierFondo.webp);
+      background-image: url(public2/img/RetelierFondo.webp);
     }
 
     .container-1-new-3 {
-      background-image: url(public/img/Turistea2.webp);
+      background-image: url(public2/img/Turistea2.webp);
     }
 
     .text-content,
